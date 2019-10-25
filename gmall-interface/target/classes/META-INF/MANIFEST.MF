@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: gmall-interface
+Implementation-Version: 0.0.1
+Built-By: Arrad
+Implementation-Vendor-Id: gmall-interface
+Build-Jdk: 1.8.0_66
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/dubbo/gmall-interface
+Created-By: Maven Integration for Eclipse
+
